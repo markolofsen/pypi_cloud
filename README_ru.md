@@ -26,7 +26,7 @@ We support eggs, wheels, and source distrubutions in any format, right inside th
 Версия = 0.0.8 <br />
 Название библиотеки = pypi_cloud <br />
 Название = PyPi cloud package <br />
-Ключевые слова = Git,  upload,  package,  repo, wheels eggs distrubutions PyPi cloud <br />
+Ключевые слова = Git,  upload,  package,  repo, wheels eggs distrubutions PyPi cloud library <br />
 
 ---
 
