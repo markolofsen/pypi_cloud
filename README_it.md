@@ -26,7 +26,7 @@ Non richiede software speciale: funziona nel browser.
 Versione = 0.0.8 <br />
 Nome libreria = pypi_cloud <br />
 Title = PyPi cloud package <br />
-Parole chiave = Git,  upload,  package,  repo, wheels eggs distrubutions PyPi cloud library <br />
+Parole chiave = Git,  upload,  package,  repo, wheels eggs distributions PyPi cloud library easy <br />
 
 ---
 
